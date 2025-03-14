@@ -1,8 +1,12 @@
 # Hello 👋 👨‍💻
 
-Hi, I'm Nick! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+I'm a passionate developer and entrepreneur with a background in startups and building innovative solutions. I love exploring new technologies and turning ideas into reality.
 
-Find me around the web 🌎:
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## What I'm Passionate About
+
+- **Startups & Entrepreneurship:** I thrive in environments where I can build new things and drive innovation.
+- **iOS Development:** I enjoy creating mobile applications that deliver seamless user experiences.
+- **Blockchain & Web3:** With hands-on experience in blockchain app development, I’m passionate about Ethereum and decentralized technologies.
+- **Generative AI:** I've delved into cutting-edge AI technologies, learning frameworks like LangChain and TensorFlow.
+- **Full-Stack Development:** I bring experience in Docker, Kubernetes, AWS, and other technologies to build robust and scalable solutions.
+
