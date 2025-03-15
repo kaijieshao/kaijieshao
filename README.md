@@ -1,6 +1,6 @@
 # Hello 👋 👨‍💻
 
-I'm a developer and entrepreneur who loves building innovative solutions. I love exploring new technologies and turning ideas into reality.
+I'm a developer and entrepreneur who loves building innovative solutions and turning ideas into reality.
 
 ## My Interests
 
