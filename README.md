@@ -2,7 +2,7 @@
 
 I'm a developer and entrepreneur who loves building innovative solutions and turning ideas into reality
 
-## My Interests
+## Interests
 
 - **🦄** Making products that people want and are willing to pay for
 - **📱** Designing apps that people use in daily life
