@@ -1,12 +1,12 @@
 # Hello 👋 👨‍💻
 
-I'm a passionate developer and entrepreneur with a background in startups and building innovative solutions. I love exploring new technologies and turning ideas into reality.
+I'm a developer and entrepreneur who loves building innovative solutions. I love exploring new technologies and turning ideas into reality.
 
-## What I'm Passionate About
+## My Interests
 
-- **Startups & Entrepreneurship:** I thrive in environments where I can build new things and drive innovation.
-- **iOS Development:** I enjoy creating mobile applications that deliver seamless user experiences.
-- **Blockchain & Web3:** With hands-on experience in blockchain app development, I’m passionate about Ethereum and decentralized technologies.
-- **Generative AI:** I've delved into cutting-edge AI technologies, learning frameworks like LangChain and TensorFlow.
-- **Full-Stack Development:** I bring experience in Docker, Kubernetes, AWS, and other technologies to build robust and scalable solutions.
+- **Startups & Entrepreneurship:** 🦄 Making products that people want and are willing to pay for.
+- **iOS Development:**  Designing apps that people use in daily life.
+- **Blockchain & Web3:** ⛓️‍💥 Developing decentralized solutions that eliminate unnecessary third parties.
+- **Generative AI:** 🤖 Using GenAI to build simplified solutions to ease our everyday tasks.
+- **Full-Stack Development:** 🌍 Delivering scalable solutions using Docker and cloud computing, such as AWS.
 
