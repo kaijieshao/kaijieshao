@@ -1,12 +1,8 @@
-# Hello 👋 👨‍💻
+# Hello 👋✨
 
-I'm a developer and entrepreneur who loves building innovative solutions and turning ideas into reality
+- **🛠️** Developer passionate about System Architect, DeFi, and Applied AI
+- **🌏** Builder, explorer, and lifelong learner  
+- **🚀** Enjoy turning creative ideas into practical products  
+- **🤝** Always open to connect and discuss new tech or projects
 
-## Interests
-
-- **🦄** Making products that people want and are willing to pay for
-- **📱** Designing apps that people use in daily life
-- **⛓️‍💥** Developing decentralized solutions that eliminate unnecessary third parties
-- **🤖** Using tools to build tools that provide simplified solutions to ease our everyday tasks
-- **🌍** Engineering scalable solutions to benefit everyone in our community ❤️
 
