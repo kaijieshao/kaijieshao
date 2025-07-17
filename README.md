@@ -1,6 +1,6 @@
 # Hi there 👋✨
 
-- **🛠️** I'm a developer passionate about System Architect, DeFi, and Applied AI
+- **🛠️** I'm a developer passionate about Software Architect, DeFi, and Applied AI
 - **🌏** Builder, explorer, and lifelong learner  
 - **🚀** Enjoy turning creative ideas into practical products  
 - **🤝** Always open to connect and discuss new tech or projects
